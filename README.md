@@ -1,7 +1,7 @@
 <!-- Header / Dynamic Typing Effect -->
 
 <div align="center">
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://readme-typing-svg.herokuapp.com?font=San+Francisco%26weight=600%26size=26%26pause=1000%26color=007AFF%26center=true%26vCenter=true%26width=600%26lines=Hello%2C+I'm+Susara+Senarathne;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Software+Engineering+Student;%F0%9F%93%B1+Mobile+%26+Web+Developer" alt="Typing SVG" />
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DSan%2BFrancisco%26weight%3D600%26size%3D26%26pause%3D1000%26color%3D007AFF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DHello%252C%2BI%27m%2BSusara%2BSenarathne%3B%25F0%259F%2591%25A8%25E2%2580%258D%25F0%259F%2592%25BB%2BSoftware%2BEngineering%2BStudent%3B%25F0%259F%2593%25B1%2BMobile%2B%2526%2BWeb%2BDeveloper" alt="Typing SVG" />
 </div>
 
 <br />
