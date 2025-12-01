@@ -1,108 +1,156 @@
-<div align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D2E91F7%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DHi%252C%2BI%27m%2BSusara%2BSenarathne%3BSoftware%2BEngineering%2BStudent%3BFull%2BStack%2BDeveloper%3BAndroid%2BDeveloper" alt="Typing SVG" />
-</div>
+<!-- Header / Status Bar Area -->
 
 <div align="center">
-
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DSan%2BFrancisco%26weight%3D600%26size%3D24%26pause%3D1000%26color%3D007AFF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DHello%252C%2BI%27m%2BSusara%2BSenarathne%3B%25F0%259F%2591%25A8%25E2%2580%258D%25F0%259F%2592%25BB%2BSoftware%2BEngineering%2BStudent%3B%25F0%259F%2593%25B1%2BMobile%2B%2526%2BWeb%2BDeveloper" alt="Typing SVG" />
 </div>
 
-<br />
+<!-- "Widgets" Grid Layout -->
 
-👨‍💻 About Me
+<table align="center" border="0" cellpadding="10" cellspacing="0">
+<tr>
+<!-- Widget 1: About Me Card -->
+<td width="50%" valign="top">
+<h3>👨‍💻 Profile</h3>
+<p>
+<b>Student @ Cardiff Metropolitan Uni</b>
 
-I am a motivated Undergraduate Software Engineering Student (BSc Hons) at Cardiff Metropolitan University, UK, with a Higher Diploma in Software Engineering from ICBT Campus.
 
-I enjoy learning new skills and applying them in real-world projects. I am committed to continuous personal and professional growth and excited to contribute to team success by developing effective and innovative software solutions.
 
-🎓 Education: BSc (Hons) Computing & Software Engineering (Reading)
 
-📍 Location: Kurunegala, Sri Lanka
+Currently reading for BSc (Hons) Computing & Software Engineering. Passionate about building functional apps and clean code.
+</p>
+<p>
+📍 <b>Location:</b> Kurunegala, LK
 
-💬 Ask me about: Java, PHP, Web Development, and Android Apps
 
-🛠️ Tech Stack & Skills
 
-<div align="left">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/java-%2523ED8B00.svg%3Fstyle%3Dfor-the-badge%26logo%3Dopenjdk%26logoColor%3Dwhite">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/php-%2523777BB4.svg%3Fstyle%3Dfor-the-badge%26logo%3Dphp%26logoColor%3Dwhite">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/html5-%2523E34F26.svg%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/css3-%25231572B6.svg%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/javascript-%2523323330.svg%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3D%2523F7DF1E">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/mysql-%252300f.svg%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/firebase-%2523039BE5.svg%3Fstyle%3Dfor-the-badge%26logo%3Dfirebase">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/bootstrap-%25238511FA.svg%3Fstyle%3Dfor-the-badge%26logo%3Dbootstrap%26logoColor%3Dwhite">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Android-%25233DDC84.svg%3Fstyle%3Dfor-the-badge%26logo%3Dandroid%26logoColor%3Dwhite">
+
+🎓 <b>Education:</b> HND Software Eng.
+
+
+
+
+💬 <b>Focus:</b> Java, Android, Web
+</p>
+<a href="https://bit.ly/41PY5nn">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-Visit%2520Site-007AFF%3Fstyle%3Dfor-the-badge%26logo%3Dsafari%26logoColor%3Dwhite" alt="Portfolio">
+</a>
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/susara-senarathne-121ba5312/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
+</a>
+</td>
+<!-- Widget 2: Tech Stack (App Icons) -->
+<td width="50%" valign="top">
+<h3>🛠 Tech Stack</h3>
+<div align="center">
+<p>
+<a href="https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djava,php,html,css,js,mysql,firebase,bootstrap,androidstudio,git%26perline%3D5%26theme%3Dlight" />
+</a>
+</p>
 </div>
+</td>
+</tr>
+</table>
 
-🚀 Featured Projects
-
-Project
-
-Description
-
-Tech Stack
-
-Link
-
-Tridots Mobile & Web App
-
-A platform for hiring skilled service providers and renting machinery. Integrated Stripe payment gateway.
-
-Java, Firebase, SQL, PHP, JS
-
-View
-
-City Cycle Rentals
-
-Android app allowing users to find available cycles, book them, and manage reservations.
-
-Java, PHP, SQL, APIs
-
-View
-
-Falcon POS System
-
-Web-based POS system integrating sales processing, inventory management, billing, and reporting.
-
-HTML, CSS, JS, PHP, MySQL
-
-View
-
-Falcon E-Commerce
-
-E-commerce solution featuring product catalog, cart, checkout, and order tracking.
-
-PHP, MySQL, Bootstrap, JS
-
-View
-
-Care Compass Hospital
-
-Hospital management website including appointment booking, doctor profiles, and patient records.
-
-HTML, CSS, PHP, JS
-
-View
-
-Lions Golden Circle
-
-A fully responsive official website ensuring smooth navigation and optimized user experience.
-
-HTML, CSS, JS, PHP
-
-View
-
-📊 GitHub Stats
+<!-- Stats Widgets -->
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dsusar-aa%26show_icons%3Dtrue%26theme%3Ddracula%26hide_border%3Dtrue" height="180" alt="stats graph"  />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Dsusar-aa%26layout%3Dcompact%26theme%3Ddracula%26hide_border%3Dtrue%26card_width%3D320" height="180" alt="languages graph"  />
+<h3>📊 Activity</h3>
+
+
+
+
+
+<a href="https://github.com/susar-aa">
+<img height="160" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dsusar-aa%26show_icons%3Dtrue%26theme%3Dbuefy%26hide_border%3Dtrue%26bg_color%3Dffffff" />
+</a>
+<a href="https://github.com/susar-aa">
+<img height="160" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Dsusar-aa%26layout%3Dcompact%26theme%3Dbuefy%26hide_border%3Dtrue%26bg_color%3Dffffff" />
+</a>
 </div>
 
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dsusar-aa%26theme%3Ddracula%26hide_border%3Dtrue" alt="streak graph" />
-</div>
+<!-- "App Store" Style Projects Section -->
 
-<div align="center">
-<small>Connect with me on <a href="https://www.google.com/search?q=https://www.linkedin.com/in/susara-senarathne-121ba5312/">LinkedIn</a></small>
-</div>
+<h3>🚀 Featured Projects</h3>
+
+<table border="0">
+<tr>
+<td width="300">
+<b>📱 Tridots Mobile & Web App</b>
+
+
+
+
+Hire skilled providers & rent machinery.
+
+
+
+
+<code>Java</code> <code>Firebase</code> <code>PHP</code>
+
+
+
+
+<a href="https://bit.ly/45MefiM">🔗 View App</a>
+</td>
+<td width="300">
+<b>🚲 City Cycle Rentals</b>
+
+
+
+
+Android app for booking cycles.
+
+
+
+
+<code>Java</code> <code>SQL</code> <code>API</code>
+
+
+
+
+<a href="https://bit.ly/3JqjYn3">🔗 View App</a>
+</td>
+</tr>
+<tr>
+<td width="300">
+<b>🛒 Falcon E-Commerce</b>
+
+
+
+
+Full online stationery store.
+
+
+
+
+<code>PHP</code> <code>MySQL</code> <code>Bootstrap</code>
+
+
+
+
+<a href="www.falconstationery.com">🔗 Visit Store</a>
+</td>
+<td width="300">
+<b>💳 Falcon POS System</b>
+
+
+
+
+Inventory & Sales management system.
+
+
+
+
+<code>Web</code> <code>Billing</code> <code>Reporting</code>
+
+
+
+
+<a href="https://bit.ly/4fOezSE">🔗 View System</a>
+</td>
+</tr>
+</table>
+
+<!-- Dock / Footer -->
