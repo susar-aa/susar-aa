@@ -1,39 +1,108 @@
-<h1 align="center">Hi!!👋, I'm Susara Senarathne</h1>
-<h3 align="center">Software Engineering Undergraduate Student</h3>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" alt="Coding GIF" width="200"/>
-</p>
+<div align="center">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D2E91F7%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DHi%252C%2BI%27m%2BSusara%2BSenarathne%3BSoftware%2BEngineering%2BStudent%3BFull%2BStack%2BDeveloper%3BAndroid%2BDeveloper" alt="Typing SVG" />
+</div>
 
-🌱 I’m currently learning Full Stack Development & Data Structures
+<div align="center">
 
-🤝 I’m an Undergraduate at Cardiff Metropolitan University
+</div>
 
-📫 How to reach me suz.x2006@gmail.com
-
-⚡ Fun fact I'm a fast learner who loves turning creative ideas into real-world software solutions!
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/susara-senarathne-121ba5312/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="susara senarathne" height="30" width="40" /></a>
-<a href="https://bit.ly/41PY5nn" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Personal Website" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-</p>
-
-<h3 align="left">My Statistics</h3>
-
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dsusar-aa%26include_all_commits%3Dtrue%26count_private%3Dtrue%26show_icons%3Dtrue%26line_height%3D30%26title_color%3DCDB4DB%26icon_color%3DCDB4DB%26text_color%3DD3D3D3%26bg_color%3D0A0A0A" alt="susar-aa Github Stats">
 <br />
-<br />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dsusar-aa%26layout%3Dcompact%26theme%3Ddark%26bg_color%3D0A0A0A" alt="Top Languages"/>
-<br />
-<br />
-<br />
+
+👨‍💻 About Me
+
+I am a motivated Undergraduate Software Engineering Student (BSc Hons) at Cardiff Metropolitan University, UK, with a Higher Diploma in Software Engineering from ICBT Campus.
+
+I enjoy learning new skills and applying them in real-world projects. I am committed to continuous personal and professional growth and excited to contribute to team success by developing effective and innovative software solutions.
+
+🎓 Education: BSc (Hons) Computing & Software Engineering (Reading)
+
+📍 Location: Kurunegala, Sri Lanka
+
+💬 Ask me about: Java, PHP, Web Development, and Android Apps
+
+🛠️ Tech Stack & Skills
+
+<div align="left">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/java-%2523ED8B00.svg%3Fstyle%3Dfor-the-badge%26logo%3Dopenjdk%26logoColor%3Dwhite">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/php-%2523777BB4.svg%3Fstyle%3Dfor-the-badge%26logo%3Dphp%26logoColor%3Dwhite">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/html5-%2523E34F26.svg%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/css3-%25231572B6.svg%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/javascript-%2523323330.svg%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3D%2523F7DF1E">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/mysql-%252300f.svg%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/firebase-%2523039BE5.svg%3Fstyle%3Dfor-the-badge%26logo%3Dfirebase">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/bootstrap-%25238511FA.svg%3Fstyle%3Dfor-the-badge%26logo%3Dbootstrap%26logoColor%3Dwhite">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Android-%25233DDC84.svg%3Fstyle%3Dfor-the-badge%26logo%3Dandroid%26logoColor%3Dwhite">
+</div>
+
+🚀 Featured Projects
+
+Project
+
+Description
+
+Tech Stack
+
+Link
+
+Tridots Mobile & Web App
+
+A platform for hiring skilled service providers and renting machinery. Integrated Stripe payment gateway.
+
+Java, Firebase, SQL, PHP, JS
+
+View
+
+City Cycle Rentals
+
+Android app allowing users to find available cycles, book them, and manage reservations.
+
+Java, PHP, SQL, APIs
+
+View
+
+Falcon POS System
+
+Web-based POS system integrating sales processing, inventory management, billing, and reporting.
+
+HTML, CSS, JS, PHP, MySQL
+
+View
+
+Falcon E-Commerce
+
+E-commerce solution featuring product catalog, cart, checkout, and order tracking.
+
+PHP, MySQL, Bootstrap, JS
+
+View
+
+Care Compass Hospital
+
+Hospital management website including appointment booking, doctor profiles, and patient records.
+
+HTML, CSS, PHP, JS
+
+View
+
+Lions Golden Circle
+
+A fully responsive official website ensuring smooth navigation and optimized user experience.
+
+HTML, CSS, JS, PHP
+
+View
+
+📊 GitHub Stats
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dsusar-aa%26show_icons%3Dtrue%26theme%3Ddracula%26hide_border%3Dtrue" height="180" alt="stats graph"  />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Dsusar-aa%26layout%3Dcompact%26theme%3Ddracula%26hide_border%3Dtrue%26card_width%3D320" height="180" alt="languages graph"  />
+</div>
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dsusar-aa%26theme%3Ddracula%26hide_border%3Dtrue" alt="streak graph" />
+</div>
+
+<div align="center">
+<small>Connect with me on <a href="https://www.google.com/search?q=https://www.linkedin.com/in/susara-senarathne-121ba5312/">LinkedIn</a></small>
+</div>
