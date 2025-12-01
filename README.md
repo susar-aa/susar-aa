@@ -48,7 +48,7 @@ Undergraduate in Software Engineering. Dedicated to building functional apps wit
     </a>
   </p>
   
-  <!-- Visitor Counter (New Feature) -->
+  <!-- Visitor Counter -->
   <p>
      <img src="https://komarev.com/ghpvc/?username=susar-aa&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </p>
@@ -75,7 +75,7 @@ Undergraduate in Software Engineering. Dedicated to building functional apps wit
 <div align="center">
 <h3>📊 Activity & Stats</h3>
 
-<!-- Trophies (New Feature) -->
+<!-- Trophies -->
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dsusar-aa%26theme%3Dflat%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D4" alt="susar-aa" />
@@ -94,10 +94,28 @@ Undergraduate in Software Engineering. Dedicated to building functional apps wit
 <a href="https://github.com/susar-aa">
 <img height="170" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Dsusar-aa%26layout%3Dcompact%26theme%3Dbuefy%26hide_border%3Dtrue%26bg_color%3Dffffff%26title_color%3D007AFF" alt="Top Languages" />
 </a>
-<!-- Streak Stats Card (New Feature) -->
+
+<br />
+
+<!-- Streak Stats Card -->
+
 <a href="https://github.com/susar-aa">
 <img height="170" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dsusar-aa%26theme%3Dbuefy%26hide_border%3Dtrue%26bg_color%3Dffffff%26title_color%3D007AFF%26icon_color%3D007AFF" alt="Streak Stats" />
 </a>
+<!-- WakaTime Stats (Requires Public WakaTime Profile) -->
+<a href="https://github.com/susar-aa">
+<img height="170" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/wakatime%3Fusername%3Dsusar-aa%26layout%3Dcompact%26theme%3Dbuefy%26hide_border%3Dtrue%26bg_color%3Dffffff%26title_color%3D007AFF%26icon_color%3D007AFF" alt="WakaTime Stats" />
+</a>
+</div>
+
+<br />
+
+<!-- Snake Animation Section -->
+
+<!-- Note: This requires a GitHub Action to generate the svg file to the 'output' branch -->
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github.com/susar-aa/susar-aa/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
 <br />
@@ -212,7 +230,3 @@ Undergraduate in Software Engineering. Dedicated to building functional apps wit
 </td>
 </tr>
 </table>
-
-<div align="center">
-<small>Profile generated for <b>Susara Senarathne</b></small>
-</div>
