@@ -47,6 +47,11 @@ Undergraduate in Software Engineering. Dedicated to building functional apps wit
       <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat&logo=gmail&logoColor=white" height="25" alt="Email"/>
     </a>
   </p>
+  
+  <!-- Visitor Counter (New Feature) -->
+  <p>
+     <img src="https://komarev.com/ghpvc/?username=susar-aa&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </p>
 </td>
 
 <!-- Right Widget: Tech Stack (Square Icons) -->
@@ -70,17 +75,28 @@ Undergraduate in Software Engineering. Dedicated to building functional apps wit
 <div align="center">
 <h3>📊 Activity & Stats</h3>
 
+<!-- Trophies (New Feature) -->
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dsusar-aa%26theme%3Dflat%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D4" alt="susar-aa" />
+</a>
+
 
 
 
 
 <!-- GitHub Stats Card -->
+
 <a href="https://github.com/susar-aa">
 <img height="170" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dsusar-aa%26show_icons%3Dtrue%26theme%3Dbuefy%26hide_border%3Dtrue%26bg_color%3Dffffff%26title_color%3D007AFF%26icon_color%3D007AFF" alt="Susara's GitHub Stats" />
 </a>
 <!-- Top Languages Card -->
 <a href="https://github.com/susar-aa">
 <img height="170" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Dsusar-aa%26layout%3Dcompact%26theme%3Dbuefy%26hide_border%3Dtrue%26bg_color%3Dffffff%26title_color%3D007AFF" alt="Top Languages" />
+</a>
+<!-- Streak Stats Card (New Feature) -->
+<a href="https://github.com/susar-aa">
+<img height="170" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dsusar-aa%26theme%3Dbuefy%26hide_border%3Dtrue%26bg_color%3Dffffff%26title_color%3D007AFF%26icon_color%3D007AFF" alt="Streak Stats" />
 </a>
 </div>
 
