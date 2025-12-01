@@ -1,14 +1,16 @@
-<!-- Header / Status Bar Area -->
+<!-- Header / Dynamic Typing Effect -->
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DSan%2BFrancisco%26weight%3D600%26size%3D24%26pause%3D1000%26color%3D007AFF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DHello%252C%2BI%27m%2BSusara%2BSenarathne%3B%25F0%259F%2591%25A8%25E2%2580%258D%25F0%259F%2592%25BB%2BSoftware%2BEngineering%2BStudent%3B%25F0%259F%2593%25B1%2BMobile%2B%2526%2BWeb%2BDeveloper" alt="Typing SVG" />
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DSan%2BFrancisco%26weight%3D600%26size%3D26%26pause%3D1000%26color%3D007AFF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DHello%252C%2BI%27m%2BSusara%2BSenarathne%3B%25F0%259F%2591%25A8%25E2%2580%258D%25F0%259F%2592%25BB%2BSoftware%2BEngineering%2BStudent%3B%25F0%259F%2593%25B1%2BMobile%2B%2526%2BWeb%2BDeveloper" alt="Typing SVG" />
 </div>
 
-<!-- "Widgets" Grid Layout -->
+<br />
 
-<table align="center" border="0" cellpadding="10" cellspacing="0">
+<!-- Main "Bento" Grid Layout -->
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
 <tr>
-<!-- Widget 1: About Me Card -->
+<!-- Left Widget: Profile & Connect -->
 <td width="50%" valign="top">
 <h3>👨‍💻 Profile</h3>
 <p>
@@ -17,7 +19,7 @@
 
 
 
-Currently reading for BSc (Hons) Computing & Software Engineering. Passionate about building functional apps and clean code.
+Undergraduate in Software Engineering. Dedicated to building functional apps with clean, efficient code.
 </p>
 <p>
 📍 <b>Location:</b> Kurunegala, LK
@@ -30,127 +32,171 @@ Currently reading for BSc (Hons) Computing & Software Engineering. Passionate ab
 
 
 
-💬 <b>Focus:</b> Java, Android, Web
+🎯 <b>Focus:</b> Java, Android, Web
 </p>
-<a href="https://bit.ly/41PY5nn">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-Visit%2520Site-007AFF%3Fstyle%3Dfor-the-badge%26logo%3Dsafari%26logoColor%3Dwhite" alt="Portfolio">
-</a>
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/susara-senarathne-121ba5312/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
-</a>
+
+  <!-- Social Buttons (iOS Pill Style) -->
+  <p>
+    <a href="https://bit.ly/41PY5nn">
+      <img src="https://img.shields.io/badge/Portfolio-Visit_Site-007AFF?style=flat&logo=safari&logoColor=white" height="25" alt="Portfolio"/>
+    </a>
+    <a href="https://www.linkedin.com/in/susara-senarathne-121ba5312/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" height="25" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:suz.x2006@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat&logo=gmail&logoColor=white" height="25" alt="Email"/>
+    </a>
+  </p>
 </td>
-<!-- Widget 2: Tech Stack (App Icons) -->
+
+<!-- Right Widget: Tech Stack (Square Icons) -->
 <td width="50%" valign="top">
-<h3>🛠 Tech Stack</h3>
-<div align="center">
-<p>
-<a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djava,php,html,css,js,mysql,firebase,bootstrap,androidstudio,git%26perline%3D5%26theme%3Dlight" />
-</a>
-</p>
-</div>
+  <h3>🛠 Tech Stack</h3>
+  <div align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,php,html,css,js,mysql,firebase,bootstrap,androidstudio,git&perline=5&theme=light" alt="My Skills" />
+    </a>
+  </div>
 </td>
+
+
 </tr>
 </table>
 
-<!-- Stats Widgets -->
+<br />
+
+<!-- Stats Section -->
 
 <div align="center">
-<h3>📊 Activity</h3>
+<h3>📊 Activity & Stats</h3>
 
 
 
 
 
+<!-- GitHub Stats Card -->
 <a href="https://github.com/susar-aa">
-<img height="160" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dsusar-aa%26show_icons%3Dtrue%26theme%3Dbuefy%26hide_border%3Dtrue%26bg_color%3Dffffff" />
+<img height="170" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dsusar-aa%26show_icons%3Dtrue%26theme%3Dbuefy%26hide_border%3Dtrue%26bg_color%3Dffffff%26title_color%3D007AFF%26icon_color%3D007AFF" alt="Susara's GitHub Stats" />
 </a>
+<!-- Top Languages Card -->
 <a href="https://github.com/susar-aa">
-<img height="160" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Dsusar-aa%26layout%3Dcompact%26theme%3Dbuefy%26hide_border%3Dtrue%26bg_color%3Dffffff" />
+<img height="170" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Dsusar-aa%26layout%3Dcompact%26theme%3Dbuefy%26hide_border%3Dtrue%26bg_color%3Dffffff%26title_color%3D007AFF" alt="Top Languages" />
 </a>
 </div>
 
-<!-- "App Store" Style Projects Section -->
+<br />
+
+<!-- "App Store" Project List -->
 
 <h3>🚀 Featured Projects</h3>
 
 <table border="0">
 <tr>
-<td width="300">
+<td width="50%">
 <b>📱 Tridots Mobile & Web App</b>
 
 
 
 
-Hire skilled providers & rent machinery.
+<i>Service hiring & machinery rental platform.</i>
 
 
 
 
-<code>Java</code> <code>Firebase</code> <code>PHP</code>
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dflat-square%26logo%3Dopenjdk%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Firebase-FFCA28%3Fstyle%3Dflat-square%26logo%3Dfirebase%26logoColor%3Dblack" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/PHP-777BB4%3Fstyle%3Dflat-square%26logo%3Dphp%26logoColor%3Dwhite" />
 
 
 
 
-<a href="https://bit.ly/45MefiM">🔗 View App</a>
+
+
+
+<a href="https://bit.ly/45MefiM">🔗 <b>View App</b></a>
 </td>
-<td width="300">
+<td width="50%">
 <b>🚲 City Cycle Rentals</b>
 
 
 
 
-Android app for booking cycles.
+<i>Android app for cycle booking & reservations.</i>
 
 
 
 
-<code>Java</code> <code>SQL</code> <code>API</code>
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dflat-square%26logo%3Dopenjdk%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-4479A1%3Fstyle%3Dflat-square%26logo%3Dmysql%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/API-007AFF%3Fstyle%3Dflat-square%26logo%3Dgooglecloud%26logoColor%3Dwhite" />
 
 
 
 
-<a href="https://bit.ly/3JqjYn3">🔗 View App</a>
+
+
+
+<a href="https://bit.ly/3JqjYn3">🔗 <b>View App</b></a>
 </td>
 </tr>
 <tr>
-<td width="300">
+<td width="50%">
 <b>🛒 Falcon E-Commerce</b>
 
 
 
 
-Full online stationery store.
+<i>Full stationery store with cart & tracking.</i>
 
 
 
 
-<code>PHP</code> <code>MySQL</code> <code>Bootstrap</code>
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/PHP-777BB4%3Fstyle%3Dflat-square%26logo%3Dphp%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/MySQL-4479A1%3Fstyle%3Dflat-square%26logo%3Dmysql%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Bootstrap-7952B3%3Fstyle%3Dflat-square%26logo%3Dbootstrap%26logoColor%3Dwhite" />
 
 
 
 
-<a href="www.falconstationery.com">🔗 Visit Store</a>
+
+
+
+<a href="http://www.falconstationery.com">🔗 <b>Visit Store</b></a>
 </td>
-<td width="300">
+<td width="50%">
 <b>💳 Falcon POS System</b>
 
 
 
 
-Inventory & Sales management system.
+<i>Inventory, Sales & Billing management.</i>
 
 
 
 
-<code>Web</code> <code>Billing</code> <code>Reporting</code>
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Web-4285F4%3Fstyle%3Dflat-square%26logo%3Dgooglechrome%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Billing-34A853%3Fstyle%3Dflat-square%26logo%3Dgooglepay%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Reports-EA4335%3Fstyle%3Dflat-square%26logo%3Dgmail%26logoColor%3Dwhite" />
 
 
 
 
-<a href="https://bit.ly/4fOezSE">🔗 View System</a>
+
+
+
+<a href="https://bit.ly/4fOezSE">🔗 <b>View System</b></a>
 </td>
 </tr>
 </table>
 
-<!-- Dock / Footer -->
+<div align="center">
+<small>Profile generated for <b>Susara Senarathne</b></small>
+</div>
