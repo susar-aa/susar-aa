@@ -9,25 +9,17 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/📍-Kurunegala%2C%20Sri%20Lanka-007AFF?style=flat&amp;labelColor=F2F2F7"/>
-<img src="https://img.shields.io/badge/🎓-HND%20Software%20Engineering-007AFF?style=flat&amp;labelColor=F2F2F7"/>
-<img src="https://img.shields.io/badge/🏫-Cardiff%20Metropolitan%20University-007AFF?style=flat&amp;labelColor=F2F2F7"/>
-
-<br/><br/>
-
-<a href="https://bit.ly/41PY5nn">
-  <img src="https://img.shields.io/badge/Portfolio-007AFF?style=flat&amp;logo=safari&amp;logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/susara-senarathne-121ba5312/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:suz.x2006@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=susar-aa&amp;label=Profile%20Views&amp;color=007AFF&amp;style=flat" alt="Profile Views" />
+<p align="center">
+<a href="https://www.instagram.com/susar.aa/"><img src="https://img.shields.io/badge/%20-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" height="40" alt="Instagram"/></a>
+<a href="https://www.facebook.com/profile.php?id=61590768809448"><img src="https://img.shields.io/badge/%20-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" height="40" alt="Facebook"/></a>
+<a href="https://wa.me/94761407875"><img src="https://img.shields.io/badge/%20-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" height="40" alt="WhatsApp"/></a>
+<a href="https://www.tiktok.com/@susar.aa"><img src="https://img.shields.io/badge/%20-000000?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white" height="40" alt="TikTok"/></a>
+<a href="https://www.linkedin.com/in/susara-senarathne-121ba5312"><img src="https://img.shields.io/badge/%20-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" height="40" alt="LinkedIn"/></a>
+<a href="https://bit.ly/41PY5nn"><img src="https://img.shields.io/badge/%20-007AFF?style=for-the-badge&amp;logo=safari&amp;logoColor=white" height="40" alt="Portfolio"/></a>
+<a href="mailto:suz.x2006@gmail.com"><img src="https://img.shields.io/badge/%20-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" height="40" alt="Gmail"/></a>
+<a href="https://github.com/susar-aa"><img src="https://img.shields.io/badge/%20-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" height="40" alt="GitHub"/></a>
+<a href="https://suzxlabs.com/"><img src="https://img.shields.io/badge/%20-4285F4?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" height="40" alt="Website"/></a>
+</p>
 
 </div>
 
